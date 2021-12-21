@@ -1,0 +1,17 @@
+.text_success{
+    color: #76cc8a !important;
+    text-decoration: line-through;
+}
+.nav-link:hover{
+    color: #6c757d;
+}
+.selected{
+    color: rgb(58, 46, 230);
+    padding: 2px 5px;
+    border: #dddcdc 1px solid;
+    margin-top: 5px;
+}
+.selected:hover{
+    color: rgb(58, 46, 230);
+}
+
